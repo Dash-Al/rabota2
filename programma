@@ -1,7 +1,7 @@
-a=int(input("Введите число: "))
-b=int(input("Введите число: "))
-c=int(input("Введите число: "))
-d=int(input("Введите число: "))
+a=int(input("Введите первое число: "))
+b=int(input("Введите второе число: "))
+c=int(input("Введите третье число: "))
+d=int(input("Введите четвертое число: "))
 sum1=a+b
 sum2=c+d
 result=sum1/sum2
